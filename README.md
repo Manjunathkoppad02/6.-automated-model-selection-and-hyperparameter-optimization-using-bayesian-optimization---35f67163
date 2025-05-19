@@ -171,4 +171,4 @@ python diabetes_prediction.py
 
 ---
 
-💡 *Feel free to contribute or fork the project!* 🚀
+
