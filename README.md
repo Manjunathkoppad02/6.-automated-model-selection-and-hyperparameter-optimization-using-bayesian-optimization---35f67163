@@ -1,4 +1,5 @@
-# 🩺 Diabetes Prediction using Random Forest and Hyperparameter Optimization
+# Automated Model Selection and Hyperparameter Optimization Using Bayesian Optimization
+Use Bayesian optimization techniques to automate model selection and hyperparameter tuning for machine learning models. Implement tools like Hyperopt or Optuna to explore the hyperparameter space efficiently and select the best-performing models based on cross-validated performance metrics. This approach enhances model accuracy and optimizes computational resources.
 
 This project focuses on predicting whether a person has diabetes or not using the **Pima Indians Diabetes Dataset**. The main objective is to build a machine learning classification model using **Random Forest Classifier**, and improve its performance using various hyperparameter tuning techniques.
 
